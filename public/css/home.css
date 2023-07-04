@@ -1,0 +1,35 @@
+/* p{
+    box-sizing: border-box;
+    background-color: aquamarine;
+    border: solid 2px blue;
+    padding: 30px;
+    width: 300px;
+} */
+
+/*header*/
+.home__header--box-logo{
+    margin: 15px auto 30px;
+    width: 180px;
+}
+
+.home__header--logo{
+    width: 100%;
+    border-radius: 50%;
+    border: solid 1px var(--colorGris);
+
+}
+.home__header--bars{
+    background-color: var(--colorGris);
+    padding: 8px;
+    margin: 0 auto 30px;
+    display: inline-block;
+    border-radius: 3px;
+}
+a.home__header__nav--menu{
+    background-color: var(--colorGris);
+    text-transform: uppercase;
+    margin-bottom: 2px;
+}
+/*body*/
+
+/*footer*/
