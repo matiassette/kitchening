@@ -1,6 +1,7 @@
 :root{
     --colorRojo: #b81e14;
     --colorGris: #92908b;
+    --colorGrisOscuro:#444444;
 }
 *{
     /* box-sizing: border-box;
@@ -20,6 +21,6 @@ ul{
 }
 body{
     background-image: url('/images/bg-body.png');
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto';
     margin: 0 10px;
 }
